@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="product_name">Producto\n</string>
+    <string name="id">id</string>
+    <string name="products">Productos</string>
+    <string name="price">Precio</string>
+    <string name="description">Descripción</string>
+    <string name="detail_product">Detalles del Producto</string>
+    <string name="img_description">img description</string>
+    <string name="close">Cerrar</string>
+</resources>
